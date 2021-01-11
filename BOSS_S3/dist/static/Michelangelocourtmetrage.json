@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "Mensonge amoureux",
+    "annee": "1949",
+    "categorie": "Documentaire",
+    "affiche": "https://media.senscritique.com/media/000017780536/source_big/Mensonge_amoureux.jpg",
+    "resume": "Mensonge amoureux (L'amorosa menzogna) est un film italien de court métrage réalisé par Michelangelo Antonioni, sorti en 1949."
+
+  },
+  {
+    "id": "2",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "La Funivia del Faloria",
+    "annee": "1950",
+    "categorie": "Documentaire",
+    "affiche": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BL-Cortina-1955-funivia-Faloria.jpg/220px-BL-Cortina-1955-funivia-Faloria.jpg",
+    "resume": "La Funivia del faloria est un film documentaire italien de 1950 réalisé par Michelangelo Antonioni. Le film emmène le spectateur dans un téléphérique à travers les Dolomites. Une grande partie du film a été tournée à Cortina d'Ampezzo."
+
+  },
+
+  {
+    "id": "3",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "Superstition",
+    "annee": "1949",
+    "categorie": "Documentaire",
+    "affiche": "https://images.mubicdn.net/images/film/92951/cache-46771-1445914157/image-w1280.jpg",
+    "resume": "Un documentaire montrant les traditions et les supersticions qui peuplent les campagnes du sud de l'Italie."
+
+  }
+]

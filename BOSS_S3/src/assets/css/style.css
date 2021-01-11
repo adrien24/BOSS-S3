@@ -1,0 +1,329 @@
+body > .accueil{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.accueil {
+  background: url("../img/Background-accueil.jpg") no-repeat;
+  background-size: 1920px 1280px;
+  background-position-y: -250px;
+
+}
+
+
+.accueil > div > div.col-lg-5.col-12.biographie{
+  margin-top: 10%;
+  color: #FCFCFC;
+  text-align: center;
+  background-color: #1D1D1D;
+  padding: 3%;
+  font-size: 1.2vw;
+  font-family: "Sitka Small", sans-serif;
+  margin-bottom: 132%;
+
+}
+
+button {
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+p{
+  margin-bottom: 5%;
+}
+.accueil > div{
+  width: 100%;
+}
+
+/*film*/
+
+.film{
+  background-color: #1D1D1D;
+  z-index: 100;
+}
+
+.film > h1{
+  font-family: "Francois One", sans-serif;
+  font-weight: bold;
+  color: #FCFCFC!important;
+  padding-top: 10%;
+  padding-left: 5%;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+body > footer{
+  margin-top: 5%;
+  border: 1px solid #FCFCFC!important;
+}
+
+#app > div > div > h1{
+  text-align: left;
+}
+
+/*film*/
+
+
+/*Biographie*/
+
+.biographie{
+  background-color: #1D1D1D;
+}
+
+
+
+.biographie{
+  overflow-x: hidden;
+
+}
+
+body > div:nth-child(3) > div > h2{
+  margin-bottom: 3%;
+}
+
+
+body > div:nth-child(2){
+  width: 100%;
+}
+
+#app > div > div > div:nth-child(2){
+  width: 100%!important;
+}
+
+
+/*Biographie*/
+
+/*formulaire*/
+
+.formulaire{
+  background-color: #1D1D1D;
+}
+
+.formulaire > footer{
+  margin-top: 12%;
+}
+
+body > div > div:nth-child(2) > form > button{
+  margin-bottom: 5%;
+}
+
+#app > div > div > div > div:nth-child(2) > form > div{
+  text-align: left;
+}
+
+/*formulaire*/
+
+
+#app > div > div > footer{
+  width: 100%!important;
+  border-top: 1px solid #FCFCFC;
+}
+#app > div > div > button{
+  margin-bottom: 2%;
+}
+
+body > footer > a:nth-child(3), body > footer > a:nth-child(2), body > footer > a.col-lg-12.d-flex.justify-content-center.text-primary{
+  color: #FCFCFC!important;
+}
+
+#app > div > div > footer > a{
+  color: #FCFCFC!important;
+}
+
+#app > div > div > footer{
+  margin-left: 0;
+  padding-bottom: 2%;
+}
+
+#app > div > div > div > div:nth-child(1) > div > label{
+  width: 79px;
+  position: relative;
+}
+
+#previewImage{
+  width: 52%!important;
+}
+
+#app > div > div > div > div:nth-child(2) > form > button{
+  margin-bottom: 6%;
+}
+
+@media only screen and (min-device-width : 200px) and (max-device-width : 480px) {
+
+  .accueil, .biographie, .formulaire{
+    background-position-y: 0px;
+    overflow-x: none;
+    overflow-y: auto;
+  }
+
+  #app > div > div > header > ul > li > a{
+    text-align: center!important;
+  }
+  body{
+    overflow-y: auto;
+  }
+
+  #app > div > div > header{
+    position: fixed;
+  }
+
+  #app > div > div > header > ul > li:nth-child(4){
+    margin-bottom: 71%;
+  }
+
+  #app > div > div > header > ul > li:nth-child(3) > a{
+    margin-bottom: 3%;
+  }
+  #app > div > div > header > ul > li:nth-child(1) > a{
+    margin-top: 58%!important;
+  }
+
+  #app > div > div > div > div.col-lg-5.col-12.biographie{
+    margin-left: 4%;
+  }
+  .accueil{
+    background-size: 1080px;
+
+  }
+
+  body > div > div.col-lg-5.col-12.biographie{
+    margin-left: 4%;
+  }
+
+
+  #app> div > div > header > a{
+    display: none;
+  }
+
+
+
+  #app > header.navbar.navbar-expand-md.navbar-dark > a > img{
+    display: none;
+  }
+
+
+  #app >  header.navbar.navbar-expand-md.navbar-dark > button {
+    z-index: 100;
+    position: relative;
+    right: 81%;
+  }
+
+  #app > div > div > header > ul > li{
+    width: 58%;
+  }
+
+
+
+  .accueil > div > div.col-lg-5.col-12.biographie > p{
+    margin-left: 6%;
+    margin-right: 2%;
+    text-align: left;
+
+
+
+  }
+
+  .accueil > div > div.col-lg-5.col-12.biographie{
+    margin-top: 69%;
+    padding-bottom: 57%;
+  }
+
+
+
+  .container{
+    margin-left: 0!important;
+  }
+
+  body > div > div > div.col-lg-4.col-12 > h2{
+    margin-top: 20%;
+  }
+
+  body > div > div > div.col-lg-8.col-12 > p{
+    margin-top: 5%;
+  }
+
+/*film*/
+  #app > div > div > h1{
+    text-align: center;
+    margin-bottom: 20%;
+  }
+
+  #app > div > div > div > div > div.col-lg-4.col-12 > h2{
+    margin-top: 10%;
+  }
+
+  #app > div > div > div:nth-child(2) > div.col-lg-4.col-12 > img{
+    width: 88%;
+    margin-right: 6%;
+  }
+  /*film*/
+
+  /*Biographie*/
+  .film > h1{
+    padding-top: 21%;
+    padding-left: 0;
+    text-align: center;
+    font-size: 2rem;
+  }
+  body > div:nth-child(2) > div.col-lg-4.col-12 > img{
+
+    width: 82%;
+    margin-left: 6%;
+
+  }
+
+  .biographie > div{
+    margin-left: 3%;
+    margin-right: 3%;
+
+  }
+  body > div:nth-child(3) > div {
+    margin-bottom: 5%;
+  }
+
+  body > div:nth-child(2) > div.col-lg-4.col-12 > img{
+    margin-top: 11%;
+  }
+
+  .accueil > div > div.col-lg-5.col-12.biographie{
+    margin-bottom: 0;
+  }
+
+  /*Biographie*/
+
+  /*formulaire*/
+  body > div > div:nth-child(1) > button {
+    margin-top: -35%!important;
+  }
+  /*formulaire*/
+
+
+  body > footer{
+    width: 111%;
+  }
+
+  body > button{
+    margin-bottom: 5%;
+  }
+
+  #app > div > div > footer > p{
+    text-align: center!important;
+  }
+
+  #app > div > div > footer > a{
+    margin-top: 4%;
+  }
+
+  #previewImage{
+    width: 84%!important;
+    margin-top: 27%!important;
+  }
+
+
+}
+
+
+

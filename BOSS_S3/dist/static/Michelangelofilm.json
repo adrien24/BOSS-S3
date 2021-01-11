@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "Cronaca di un amore",
+    "annee": "1950",
+    "categorie": "Drame",
+    "affiche": "https://upload.wikimedia.org/wikipedia/it/thumb/7/7a/Cronaca_di_un_amore2.jpg/260px-Cronaca_di_un_amore2.jpg",
+    "resume": "Alors qu’il rentre à sa base, l’équipage de l’Enterprise doit faire face à des forces terroristes implacables au sein même de son organisation. L’ennemi a fait exploser la flotte et tout ce qu’elle représentait, plongeant notre monde dans le chaos…",
+    "note": 4
+  },
+  {
+    "id": "2",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "La Dame sans camélias",
+    "annee": "1953",
+    "categorie": "Drame",
+    "affiche": "https://upload.wikimedia.org/wikipedia/commons/6/68/Signorasenzacamelie-1953-Antonioni.png",
+    "resume": "La conclusion de la saga Skywalker. De nouvelles légendes vont naître dans cette bataille épique pour la liberté.",
+    "note": 3.2
+  },
+  {
+    "id": "3",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "Femmes entre elles",
+    "annee": "2015",
+    "categorie": "Drame",
+    "affiche": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cortese_Le_amiche.png",
+    "resume": "Dans une galaxie lointaine, très lointaine, un nouvel épisode de la saga 'Star Wars', 30 ans après les événements du 'Retour du Jedi'.",
+    "note": 3.6
+  },
+  {
+    "id": "4",
+    "realisateur": "Michelangelo Antonioni",
+    "titre": "La Nuit",
+    "annee": "1961",
+    "categorie": "Drame",
+    "affiche": "https://upload.wikimedia.org/wikipedia/commons/b/bc/La_notte_%28Antonioni%29.jpg",
+    "resume": "Dans une galaxie lointaine, très lointaine, un nouvel épisode de la saga 'Star Wars', 30 ans après les événements du 'Retour du Jedi'.",
+    "note": 3.6
+  }
+]

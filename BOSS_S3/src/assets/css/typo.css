@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+
+ ul{
+  font-family: 'Francois One', sans-serif;
+
+
+}
+
+h2{
+  font-family: "Francois One", sans-serif;
+}
+
+body > header > a{
+  letter-spacing: 5px;
+}
+
+.film > div > div > div > h1{
+  font-family: "Francois One", sans-serif;
+  font-weight: bold;
+  color: #FCFCFC!important;
+  margin-top: 50%;
+}
+
+
+p, a {
+  font-size: 1.2vw;
+  font-family: 'Playfair Display', serif;
+  text-align: left!important;
+}
+
+@media only screen and (min-device-width : 200px) and (max-device-width : 480px) {
+  p,a, button > a {
+    font-size: 1rem;
+  }
+
+
+
+}
